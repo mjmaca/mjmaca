@@ -1,16 +1,12 @@
-## Hi there 👋
+👋 Hi, I’m Michael George Orolfo
 
-<!--
-**mjmaca/mjmaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Web Developer with 5 years of professional experience, focused on building scalable, user-friendly web applications and delivering business-driven solutions.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Tech Stack
+🔧 Frontend: React, Angular, jQuery, HTML5, SASS/LESS
+⚙️ Backend: Laravel, Node.js(Express JS), Native PHP
+☁️ DevOps & Infrastructure: AWS (EC2, EBS, AMI, SES), LAMP/LEMP, SSH, CRON jobs
+🎓 CMS & LMS: Moodle LMS, Prismic, WordPress
+📊 CRM: Zapier, RudderStack, MixPanel
+🛢 Databases: MySQL, PostgreSQL, MongoDB
+🛠 Tools & Practices: Git/GitHub, Bitbucket, Agile, Scrum, Jira, Trello, Figma
